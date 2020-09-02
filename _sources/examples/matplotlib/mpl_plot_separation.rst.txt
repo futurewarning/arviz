@@ -1,0 +1,17 @@
+
+.. _mpl_plot_separation:
+
+
+Separationplot
+==========
+
+
+
+.. image:: _images/mpl_plot_separation.png
+
+**Python source code:** :download:`[download source: mpl_plot_separation.py]<mpl_plot_separation.py>`
+
+**API documentation:** `plot_separation <../../generated/arviz.plot_separation>`_
+
+.. literalinclude:: mpl_plot_separation.py
+    :lines: 7-
